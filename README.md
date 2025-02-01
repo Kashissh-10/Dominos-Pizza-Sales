@@ -13,6 +13,7 @@ Developed key performance indicators (KPIs) including:
   - Unit Price
   - Total Orders
   - Total Pizza Category
+    
 Created custom calculations & measures to analyze sales growth and trends.
 
 - **Advanced Visualizations**
