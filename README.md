@@ -1,5 +1,7 @@
+**Domino's Pizza Sales Analysis & Visualization using Tableau**
+
 **Project Overview**
-This project is a comprehensive sales analysis and visualization of Domino’s Pizza sales data, built using Tableau. The goal is to create an interactive dashboard that provides deep insights into sales trends, customer behavior, and product performance using advanced data visualization techniques.
+- This project is a comprehensive sales analysis and visualization of Domino’s Pizza sales data, built using Tableau. The goal is to create an interactive dashboard that provides deep insights into sales trends, customer behavior, and product performance using advanced data visualization techniques.
 
 **Key Features**
 - **Data Preparation & Transformation**
