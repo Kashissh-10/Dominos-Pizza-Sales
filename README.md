@@ -8,7 +8,11 @@ Applied parameters for dynamic filtering and enhanced flexibility.
 Handled missing values and structured data for optimal performance.
 
 - **KPIs & Performance Metrics**
-Developed key performance indicators (KPIs) including: Total Revenue, Average Order Value, Top-Selling Products, Sales by Time Trends, Customer Order Frequency
+Developed key performance indicators (KPIs) including:
+  - Total Price
+  - Unit Price
+  - Total Orders
+  - Total Pizza Category
 Created custom calculations & measures to analyze sales growth and trends.
 
 - **Advanced Visualizations**
